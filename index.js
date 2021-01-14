@@ -16,7 +16,7 @@ const BotName = 'FDHY BOT'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/fadhilhidayattt_'; // Nama Instagramlu cok
 const whatsapplu = '0821-3158-1861'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = ''; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/CjM0uN9mG3s0cfoViaKLx3'; // OFFICIAL GRUP LU 1
 const grupch2 = ''; // OFFICIAL GRUP LU 2
 //
 const
