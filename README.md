@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# fdhybot
+BOT WHATSAPP HP
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -44,9 +44,3 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Say                              |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
